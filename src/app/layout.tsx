@@ -6,9 +6,9 @@ export const metadata: Metadata = { // Metadata型を指定
   title: 'Next-TODO-App',
   description: 'Next.jsで作成したTODOリストアプリ',
   icons: { // アイコン設定を追加
-    icon: '/rgba.ico', // publicディレクトリからのパス
-    shortcut: '/rgba.png', // 別のアイコンを指定する場合
-    apple: '/rgba.png', // Appleデバイス用
+    icon: '/icon.ico', // publicディレクトリからのパス
+    shortcut: '/icon.png', // 別のアイコンを指定する場合
+    apple: '/icon.png', // Appleデバイス用
   },
 }
 
